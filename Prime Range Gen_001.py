@@ -20,6 +20,7 @@ def Main():
     print(list)
   
     print("**************************")
+    press = input("Press Enter to Exit...")
 #        time.sleep(0.25)
 
 if __name__ == "__main__":
